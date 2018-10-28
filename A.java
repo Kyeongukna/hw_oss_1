@@ -4,5 +4,7 @@ public class A{
       System.out.println("Add B");
       System.out.println("Add C");
       System.out.println("B + C");
+        System.out.println("Branch E");
+          System.out.println("D+E");
     }
 }
